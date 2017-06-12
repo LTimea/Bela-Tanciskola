@@ -1,0 +1,40 @@
+
+body {
+	background-image: url("http://www.wallpapersbrowse.com/images/5w/5w94i3n.jpg");
+	background-attachment: fixed;
+	color: dgrey;
+	font-family: Arial, Helvetica;
+}
+h1 {
+
+background: darkcyan;
+
+color: white;
+
+text-align: center;
+
+border: 1px dashed cyan;
+}
+
+h2 {
+
+background: darkcyan;
+
+color: white;
+
+text-align: left;
+
+border: 1px dashed cyan;
+}
+
+tr, th, td {
+	text-align: center;
+	width: 200px;
+	border-right: 1px dotted;
+
+}
+
+blockquote{
+	font-weight: bold;
+	text-align: center;
+}
